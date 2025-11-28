@@ -184,7 +184,9 @@ bar {
 		urgent_workspace   $urgent-bg-color   $urgent-bg-color   $text-color
 	}
 
-        font pango:Font Awesome 7 Free, Font Awesome 7 Brands,DejaVu Sans Mono Bold 7
+        font pango:font pango:JetBrainsMono Nerd Font 8, Material Icons 8
+
+#Font Awesome 7 Free, Font Awesome 7 Brands,DejaVu Sans Mono Bold 7
 
 }
 
