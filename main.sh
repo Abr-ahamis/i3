@@ -41,7 +41,7 @@ REQUIRED_PACKAGES=(
     i3blocks
     rofi
     pkexec
-    policykit-1
+    polkitd
     xdotool
     dex
     acpi
